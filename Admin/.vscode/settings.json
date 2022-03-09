@@ -1,0 +1,42 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "eslint.workingDirectories": [{
+      "directory": "react",
+      "changeProcessCWD": true
+    },
+    {
+      "directory": "node",
+      "changeProcessCWD": true
+    }
+  ],
+  "cSpell.words": [
+    "Administración",
+    "Alguma",
+    "appliancetheme",
+    "Entrenamiento",
+    "explicação",
+    "Gerenciamento",
+    "helloworld",
+    "Información",
+    "Informações",
+    "iotraining",
+    "otherexample",
+    "otheriotraining",
+    "smartcheckout",
+    "styleguide",
+    "Titulo",
+    "Treinamento",
+    "vtex"
+  ]
+}
